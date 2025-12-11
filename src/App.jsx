@@ -10,7 +10,6 @@ import Counter from './context/Counter';
 import Login from './pages/login';
 function App() {
 
-
   return (
     <Router>
       <Navbar />
